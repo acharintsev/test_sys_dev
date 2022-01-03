@@ -5,6 +5,7 @@
 ```
 [root@x ~]# ifconfig eth1 arp
 ```
+P.S. 
 ## С и тестирование
 ## Shell-скриптинг
 ## Python 2
