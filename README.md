@@ -20,7 +20,7 @@
 __P.S.__ Решение теста исходит из того, что для обмена между X и Y используется существующий мост Linux (на основе __bridge-utils__), мост __br1__ "знает" MAC-адреса интерфейса __eth0__ ВМ-KVM и интерфейса __eth0__ LXC-контенера и в механизмах запуска (системе управления) соответствующего профиля ВМ-KVM и LXC-контенера отсутствуют средства изоляции ВМ/контейнера друг от друга (фильтрация iptables/firewalld).
 
 ## С и тестирование
-Вариант решения задания в папке [unit_testing_example](https://github.com/acharintsev/test_sys_dev/tree/main/unit_testing_example/)
+Вариант решения задания в директории [unit_testing_example](https://github.com/acharintsev/test_sys_dev/tree/main/unit_testing_example/)
 
 ## Shell-скриптинг
 ## Python 2
