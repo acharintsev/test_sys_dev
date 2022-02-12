@@ -1,5 +1,4 @@
-1. Для запуска теста необходимы: make, cmake, gcc
-
+Для запуска теста необходимы: make, cmake, gcc
 ```
 cd test
 make
